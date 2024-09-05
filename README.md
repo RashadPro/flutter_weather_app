@@ -1,16 +1,19 @@
-# weather_app
+  
+  <h1>Public Chat</h1>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <p> 
+   WeatherSnap provides real-time weather updates for your location and any city worldwide. 📱💬
+  </p>
+  <p>
+ <img align="center" alt="coding" width="200" src="https://www8.0zz0.com/2024/04/15/15/830047519.png" alt="rashadpro">   
+ <img align="center" alt="coding" width="200" src="https://www5.0zz0.com/2024/09/05/18/794921850.png" alt="rashadpro">   
+ <img align="center" alt="coding" width="200" src="https://www12.0zz0.com/2024/04/15/15/672186971.png" alt="rashadpro">   
+ </p>
+  <p>
+  <p>---------------------------------------------------------------------------------------------------------- <br></p>
+  <p>
+  GitHub Profile → https://github.com/RashadPro <br>
+  Linked in Profile → https://bit.ly/linkedin-rashad <br>
+  Facebook Profile → https://bit.ly/Facebook-rashad <br>
+  Instagram Profile → https://bit.ly/instagram-rashad <br>
+</p>
