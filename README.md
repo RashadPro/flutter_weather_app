@@ -2,7 +2,7 @@
   <h1>Weather App</h1>
 
   <p> 
-   WeatherSnap provides real-time weather updates for your location and any city worldwide. 📱💬
+   WeatherApp provides real-time weather updates for your location and any city worldwide. 📱
   </p>
   <p>
   <img align="center" alt="coding" width="200" src="https://f.top4top.io/p_3170381rf1.png" alt="rashadpro">  
